@@ -1,4 +1,3 @@
-D:\GitClient\ASP Core MVS Lessons\SportStore\SportStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.csprojAssemblyReference.cache
 D:\GitClient\ASP Core MVS Lessons\SportStore\SportStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.csproj.CoreCompileInputs.cache
 D:\GitClient\ASP Core MVS Lessons\SportStore\SportStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.RazorAssemblyInfo.cache
 D:\GitClient\ASP Core MVS Lessons\SportStore\SportStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.RazorAssemblyInfo.cs
@@ -24,3 +23,6 @@ D:\GitClient\ASP Core MVS Lessons\SportStore\SportStore\SportsStore\SportsStore\
 D:\GitClient\ASP Core MVS Lessons\SportStore\SportStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
 D:\GitClient\ASP Core MVS Lessons\SportStore\SportStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
 D:\GitClient\ASP Core MVS Lessons\SportStore\SportStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Product\List.g.cshtml.cs
+D:\GitClient\ASP Core MVS Lessons\SportStore\SportStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.csprojAssemblyReference.cache
+D:\GitClient\ASP Core MVS Lessons\SportStore\SportStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ProductSummary.g.cshtml.cs
+D:\GitClient\ASP Core MVS Lessons\SportStore\SportStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\NavigationMenu\Default.g.cshtml.cs

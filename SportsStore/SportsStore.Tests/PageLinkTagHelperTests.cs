@@ -34,7 +34,7 @@ namespace SportsStore.Tests
                     TotalItems = 28,
                     ItemsPerPage = 10
                 },
-                PageActionr = "Test"
+                PageAction = "Test"
             };
 
             TagHelperContext ctx = new TagHelperContext(new TagHelperAttributeList(), new Dictionary<object, object>(), "");
