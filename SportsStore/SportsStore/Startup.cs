@@ -27,8 +27,12 @@ namespace SportsStore
             services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(
                 Configuration["Data:SportStoreProducts:ConnectionString"]));
 
+            services.AddScoped<Cart>(sp => SessionCart.GetCart(sp));
+            services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+
             services.AddTransient<IProductRepository, EFProductRepository>();
-            //services.AddTransient<IProductRepository, FakeProductRepository>();
+            services.AddMemoryCache();
+            services.AddSession();
 
             services.AddMvc();
         }
@@ -39,6 +43,7 @@ namespace SportsStore
             app.UseDeveloperExceptionPage();
             app.UseStatusCodePages();
             app.UseStaticFiles();
+            app.UseSession();
             app.UseBrowserLink();
             app.UseMvc(routes => 
             {
