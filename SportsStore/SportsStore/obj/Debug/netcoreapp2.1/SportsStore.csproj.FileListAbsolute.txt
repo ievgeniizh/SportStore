@@ -29,3 +29,4 @@ D:\GitClient\ASP Core MVS Lessons\SportStore\SportStore\SportsStore\SportsStore\
 D:\GitClient\ASP Core MVS Lessons\SportStore\SportStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Cart\Index.g.cshtml.cs
 D:\GitClient\ASP Core MVS Lessons\SportStore\SportStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\CartSummary\Default.g.cshtml.cs
 D:\GitClient\ASP Core MVS Lessons\SportStore\SportStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Order\Checkout.g.cshtml.cs
+D:\GitClient\ASP Core MVS Lessons\SportStore\SportStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Order\Completed.g.cshtml.cs
